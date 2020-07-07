@@ -1,6 +1,6 @@
 # ESKOM SA TWEETS ETL Pipeline
 
-###As the second part of the predict for Gather, we needed to build a pipeline of functions in python which do the following:
+## As the second part of the predict for Gather, we needed to build a pipeline of functions in python which do the following:
 
 1. Function to connect to twitter and scrapes "Eskom_SA" tweets.
 
